@@ -1,0 +1,25 @@
+.travel_mainDiv img{ 
+    width: 100%;
+}
+.travel_mainDiv h4,.travel_mainDiv p{
+    font-size: 30px;
+}
+.filmetitulo {
+    font-size: 20px; 
+    padding:6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.filmetitulo i {
+    float: right;
+}
+.filmetexto span {
+    color: chocolate;
+}
+.oslivros{
+    margin-bottom: 20px;
+}
+.oslivros  img{
+    height: 20%;
+  
+}
